@@ -10,10 +10,10 @@ print("3. Multiply *")
 print("4. Divide /")
 print("5. Square s")
 
-# Ask the user to choose an operation
+
 choice = input("Choose an operation (1/2/3/4/5): ")
 
-# Perform the selected operation
+
 if choice == '1':
     result = num1 + num2
 elif choice == '2':
